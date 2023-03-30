@@ -58,7 +58,6 @@ A: As there are several thousands of different vehicles, we unfortunately cannot
 
 
 Q: Do you have a windows J2534 template project to develop with the OBDX J2534 API?
-
 A: Unfortunaely we do not have a J2534 specific windows template at this time. But we do have template applications for windows and MAUI that allow direct communciation to the OBDX Pro without needing the J2534 API installed.
 
 
