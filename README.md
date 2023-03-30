@@ -1,4 +1,4 @@
-# OBDX Pro J2534 4.04 Releases and Information
+# OBDX Pro J2534 Releases and Information
 
 The purpose of this repository is to allow developers and individuals to download and access the latest OBDX J2534 releases for all supported scantools.
 Please see the changelog of each scantool for specific changes.
@@ -7,6 +7,9 @@ These releases include 32bit and 64bit installers, along with the individual DLL
 
 There are no public dealership softwares (As of March 2023) that we are aware of which use 64bit J2534, thus the 64bit J2534 install and DLL should only be used by developers that are compiling their application for 64bit. If using 64bit, then it is recommended to embed the DLL into your application/installer to minimise confusion to end users.
 
+J2534 has been split into two main folders, J2534 4.04 and J2534 5.00.
+The 4.04 API is what 99.9% of J2534 sofwtare use, only a very small portion of software use the latest 5.00 API.
+We have yet to complete our 5.00 API but will as soon as we have an ECU and software setup which utilises the 5.00 API.
 
 
 ## Supported J2534 Software ##
