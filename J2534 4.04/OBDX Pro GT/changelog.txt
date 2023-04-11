@@ -1,0 +1,20 @@
+v1.0.1.4
+- Addition custom commands to passthruioctrl
+
+v1.0.1.3
+- Add ability to start connection to specific tool
+
+v1.0.1.2
+- Add request all tools available with custom command
+
+v1.0.1.1
+- Add unique serial read with custom command
+
+v1.0.0.2-v1.0.1.0
+- Speed optimizations
+
+v1.0.0.1
+- 29bit filter fix
+
+v1.0.0.0
+- Initial Release

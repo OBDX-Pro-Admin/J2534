@@ -1,0 +1,5 @@
+v1.0.0.1
+-Auto switch to VPW 1x after no communication at VPW 4x
+
+v1.0.0.0
+-Initial Release

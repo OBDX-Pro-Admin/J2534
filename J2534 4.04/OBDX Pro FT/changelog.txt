@@ -1,0 +1,5 @@
+v1.0.0.1
+-MSCAN filter and switch update
+
+v1.0.0.0
+-Initial Release

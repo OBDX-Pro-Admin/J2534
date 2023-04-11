@@ -3,7 +3,7 @@
 The purpose of this repository is to allow developers and individuals to download and access the latest OBDX J2534 releases for all supported scantools.
 Please see the changelog of each scantool for specific changes.
 
-These releases include 32bit and 64bit installers, along with the individual DLL for developers looking to embed the J2534 DLL API into their application. Both 32bit and 64bit installers/DLLs can exist on the same PC.
+These releases include 32bit and 64bit installers, both 32bit and 64bit installers/DLLs can exist on the same PC 64bit computer.
 
 There are no public dealership softwares (As of March 2023) that we are aware of which use 64bit J2534, thus the 64bit J2534 install and DLL should only be used by developers that are compiling their application for 64bit. If using 64bit, then it is recommended to embed the DLL into your application/installer to minimise confusion to end users.
 
@@ -39,9 +39,11 @@ Additional custom commands can be added, please contact us for any suggestions o
 
 If you come across an issue while using a J2534 application, or while developing your own J2534, please contact us with as much information as possible so that we can assist.
 
+
 If using a 3rd party J2534 application, we will need to know which scantool you are using, what application, what vehicle (Year, manufacture, model ect) and what ECU/Module you are trying to connect to.
 
-If developing your own J2534 application, we will need to know the above information along with what issue is occuring/
+
+If developing your own J2534 application, we will need to know the above information along with what issue is occuring.
 There will be a switchable logging option to enable in a future update which will also be encouraged to help with debugging.
 
 
