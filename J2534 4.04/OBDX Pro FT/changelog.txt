@@ -1,3 +1,7 @@
+v1.0.0.2
+-performance increase
+-64bit memory pointer fix
+
 v1.0.0.1
 -MSCAN filter and switch update
 
