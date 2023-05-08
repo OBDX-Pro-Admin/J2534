@@ -1,3 +1,6 @@
+v1.0.1.6
+-PassThruWrite timeout adjustments
+
 v1.0.1.5
 - performance update
 - 64bit memory pointer fix
