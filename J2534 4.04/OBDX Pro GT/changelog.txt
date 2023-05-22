@@ -1,3 +1,9 @@
+v1.0.1.7
+-update to event driven serial processing to auto check for new data after specific wait period.
+-J2534 debug logging can be enabled from "C:\Users\[YourUserName]\AppData\Roaming\OBDX Pro\J2534\Settings\OBDXGT_Config.cfg"
+This configuration is automatically generated on first usage of the J2534 API. Change LoggingEnabled to 1 to enable.
+Logs are then saved to C:\Users\[YourUserName]\AppData\Roaming\OBDX Pro\J2534\Logs
+
 v1.0.1.6
 -PassThruWrite timeout adjustments
 
