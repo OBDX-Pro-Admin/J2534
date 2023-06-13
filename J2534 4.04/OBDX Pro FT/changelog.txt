@@ -1,3 +1,7 @@
+v1.0.0.7
+-All filters have been changed to self identify as 11bit or 29bit based on the ID passed into the PassThruStartFilter request.
+This has been implemented due to Fords FJDS incorrectly assigning the dedicated PassThruMsg CAN 29bit parameter
+
 v1.0.0.6
 -Update to error texts
 

@@ -1,3 +1,7 @@
+v1.0.1.8
+-All filters have been changed to self identify as 11bit or 29bit based on the ID passed into the PassThruStartFilter request.
+This has been implemented due to Fords FJDS incorrectly assigning the dedicated PassThruMsg CAN 29bit parameter
+
 v1.0.1.7
 -update to event driven serial processing to auto check for new data after specific wait period.
 -J2534 debug logging can be enabled from "C:\Users\[YourUserName]\AppData\Roaming\OBDX Pro\J2534\Settings\OBDXGT_Config.cfg"
